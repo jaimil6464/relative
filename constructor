@@ -1,0 +1,8 @@
+public class constuctor {
+         constuctor(){
+            system.out.println("")
+         }
+
+
+
+
